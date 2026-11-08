@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<recetas total="7">
+    <receta id="1">
+        <nombre>Tortilla de patatas</nombre>
+        <categoria>Plato principal</categoria>
+        <tiempoPreparacion>45</tiempoPreparacion>
+        <dificultad>Media</dificultad>
+        <ingredientes>
+            <ingrediente>patatas</ingrediente>
+            <ingrediente>huevos</ingrediente>
+            <ingrediente>cebolla</ingrediente>
+            <ingrediente>aceite de oliva</ingrediente>
+            <ingrediente>sal</ingrediente>
+        </ingredientes>
+    </receta>
+    <receta id="2">
+        <nombre>Gazpacho andaluz</nombre>
+        <categoria>Entrante</categoria>
+        <tiempoPreparacion>20</tiempoPreparacion>
+        <dificultad>Fácil</dificultad>
+        <ingredientes>
+            <ingrediente>tomate</ingrediente>
+            <ingrediente>pepino</ingrediente>
+            <ingrediente>pimiento</ingrediente>
+            <ingrediente>ajo</ingrediente>
+            <ingrediente>aceite de oliva</ingrediente>
+            <ingrediente>vinagre</ingrediente>
+        </ingredientes>
+    </receta>
+    <receta id="3">
+        <nombre>Paella valenciana</nombre>
+        <categoria>Plato principal</categoria>
+        <tiempoPreparacion>90</tiempoPreparacion>
+        <dificultad>Difícil</dificultad>
+        <ingredientes>
+            <ingrediente>arroz</ingrediente>
+            <ingrediente>pollo</ingrediente>
+            <ingrediente>judías verdes</ingrediente>
+            <ingrediente>garrofón</ingrediente>
+            <ingrediente>azafrán</ingrediente>
+            <ingrediente>tomate</ingrediente>
+        </ingredientes>
+    </receta>
+    <receta id="4">
+        <nombre>Croquetas de jamón</nombre>
+        <categoria>Entrante</categoria>
+        <tiempoPreparacion>60</tiempoPreparacion>
+        <dificultad>Media</dificultad>
+        <ingredientes>
+            <ingrediente>jamón</ingrediente>
+            <ingrediente>harina</ingrediente>
+            <ingrediente>leche</ingrediente>
+            <ingrediente>mantequilla</ingrediente>
+            <ingrediente>pan rallado</ingrediente>
+            <ingrediente>huevo</ingrediente>
+        </ingredientes>
+    </receta>
+    <receta id="5">
+        <nombre>Flan de huevo</nombre>
+        <categoria>Postre</categoria>
+        <tiempoPreparacion>45</tiempoPreparacion>
+        <dificultad>Media</dificultad>
+        <ingredientes>
+            <ingrediente>huevos</ingrediente>
+            <ingrediente>leche</ingrediente>
+            <ingrediente>azúcar</ingrediente>
+            <ingrediente>vainilla</ingrediente>
+        </ingredientes>
+    </receta>
+    <receta id="6">
+        <nombre>Ensalada mixta</nombre>
+        <categoria>Entrante</categoria>
+        <tiempoPreparacion>10</tiempoPreparacion>
+        <dificultad>Fácil</dificultad>
+        <ingredientes>
+            <ingrediente>lechuga</ingrediente>
+            <ingrediente>tomate</ingrediente>
+            <ingrediente>cebolla</ingrediente>
+            <ingrediente>atún</ingrediente>
+            <ingrediente>aceitunas</ingrediente>
+        </ingredientes>
+    </receta>
+    <receta id="7">
+        <nombre>Pasta a la arrabiata</nombre>
+        <categoria>Plato principal</categoria>
+        <tiempoPreparacion>60</tiempoPreparacion>
+        <dificultad>Facil</dificultad>
+        <ingredientes>
+            <ingrediente>Tomate</ingrediente>
+            <ingrediente>cebolla</ingrediente>
+            <ingrediente>chile</ingrediente>
+            <ingrediente>pimiento verde</ingrediente>
+            <ingrediente>pasta</ingrediente>
+        </ingredientes>
+    </receta>
+</recetas>
